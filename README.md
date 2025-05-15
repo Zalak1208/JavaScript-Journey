@@ -1,2 +1,2 @@
 # JavaScript-Journey
-A new beginning of leaning Java Script.
+A new beginning of learing Java Script.
