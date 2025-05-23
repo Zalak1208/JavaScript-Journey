@@ -1,0 +1,18 @@
+there are only two types of datatypes : 1. primitive 2. non-primitive.
+the bifergation is done on the basis of how these dataypes are stored in memory and how they are accessed.
+# primitive ( call by value ):
+7 types : string, number, boolean, null, undefined, symbol, bigint.
+
+JS is dynamically-typed language and not statically-typed, which means interpreter assigns variables a type. no need to specify the datatype during assigning value
+eg. const score = 100;
+
+# non-primitive ( call by reference ):
+ array, objects, functions.
+
+typeof value of non-primitive datatypes is "OBJECT", and of function is object-function.
+
+//*********************************************************************//
+Memory:
+there are two tyoes of memory : 1. Stack-Memory  2. Heap-Memory
+Stack : primitive datatypes
+Heap : non-primitive datatypes
